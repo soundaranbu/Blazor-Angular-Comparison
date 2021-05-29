@@ -1,0 +1,1 @@
+docker build -t aspnetcore-blazor -f AspNetCore.BlazorWebAssembly\Server\Dockerfile .

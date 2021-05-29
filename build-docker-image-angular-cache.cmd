@@ -1,0 +1,1 @@
+docker build -t aspnetcore-angular -f AspNetCore.Angular\Dockerfile .
